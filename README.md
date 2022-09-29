@@ -1,1 +1,1 @@
-# blockchain-energy-labels.github.io
+# Blockchain Energy Labels Project
